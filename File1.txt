@@ -13,3 +13,5 @@ Feature 1
 Fix for feature 1
 Second fix for feature 1
 Third fix for feature 1
+Fourth fix for feature 1
+Fifth fix for feature 1
